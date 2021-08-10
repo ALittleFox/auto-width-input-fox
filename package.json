@@ -1,7 +1,7 @@
 {
   "name": "auto-input-fox",
   "version": "0.0.15",
-  "description": "selector",
+  "description": "auto-input-width",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
@@ -15,15 +15,15 @@
     "publis:s": "npm version patch &&  npm publish"
   },
   "keywords": [
-    "tag-input"
+    "input width"
   ],
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ALittleFox/auto-width-input-fox"
   },
-  "author": "lf",
-  "license": "ISC",
+  "author": "fox",
+  "license": "WTFPL",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
