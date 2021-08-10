@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "jsx": "react",
+    "declaration": true,
+    "declarationDir":"./dist",
+
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  },
+  "include":[
+    "typed-css.d.ts"
+  ]
+}

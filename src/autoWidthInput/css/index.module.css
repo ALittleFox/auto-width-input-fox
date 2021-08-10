@@ -1,0 +1,29 @@
+
+.auto_width_input{
+  /* flex-wrap: wrap; */
+  display: inline-block;
+  height: 18px;
+  font-size: 12px;
+  font-family: Menlo,Monaco,"Courier New",monospace;
+}
+.auto_width_input>input{
+  display:block;
+  width:auto;
+  min-width: 12px;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 12px ;
+  font-family: Menlo,Monaco,"Courier New",monospace;
+  
+}
+.auto_width_conpute{
+  position: fixed;
+  top: -100px;
+  display:block;
+ height: 0;
+ overflow: hidden;
+  width: auto;
+}
